@@ -6,13 +6,13 @@
   "repository": {
     "url": ""
   },
-  "main": "./lib/boilerplate-query",
+  "main": "./lib/boilerpipe-query",
   "keywords": [
-    "boilerplate",
+    "boilerpipe",
     "query"
   ],
   "bin": {
-    "uppercaseme": "./bin/boilerplate-query"
+    "uppercaseme": "./bin/boilerpipe-query"
   },
   "dependencies": {
     "superagent": "~0.15.4"

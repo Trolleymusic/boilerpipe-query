@@ -21,7 +21,7 @@ queryBoilerpipe = function (url, extractor, output, callback) {
   
   if (!callback) {
     callback = function (response) {
-      return response
+      return console.log(response)
     }
   }
   
