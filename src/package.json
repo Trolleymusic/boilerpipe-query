@@ -2,7 +2,7 @@
   "author": "Wayne Durack",
   "name": "boilerpipe-query",
   "description": "Queries Boilerpipe's public API",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "url": ""
   },
