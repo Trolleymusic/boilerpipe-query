@@ -12,7 +12,7 @@
     "query"
   ],
   "bin": {
-    "uppercaseme": "./bin/boilerpipe-query"
+    "boilerpipe-query": "./bin/boilerpipe-query"
   },
   "dependencies": {
     "superagent": "~0.15.4"
